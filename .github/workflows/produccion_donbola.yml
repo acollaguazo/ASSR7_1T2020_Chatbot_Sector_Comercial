@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'donbola'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_0915a8e2a1054a6bba0f628217cfd611 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d125ea508393475292dece22ae0b5f60 }}
         package: .
